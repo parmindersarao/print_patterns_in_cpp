@@ -38,4 +38,5 @@ main()
         }
         cout<<endl;
     }
+    cin.get();
 }
